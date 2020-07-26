@@ -36,4 +36,4 @@ Portfolio.html
 * I used a Bootstrap container with a div class of "row-justify-md-center" and added a card in the middle to hold one of the webpages I created. I linked the image and text of the Roblox Fanpage so it takes the user to the Fanpage site. 
 
 *** FINAL PRODUCT IMAGES ***
-![Final Product](.Assets/index.png)
+![Final Product](./Assets/portfolio.png)
